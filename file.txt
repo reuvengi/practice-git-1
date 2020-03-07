@@ -1,2 +1,4 @@
 my first line in project
 Paris is the capital of France
+Prague is thr capital of Czech Republic
+Tashkent is the capital of Uzbekistan
